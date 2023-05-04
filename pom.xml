@@ -39,7 +39,7 @@
             <manifest>
               <addClasspath>true</addClasspath>
               <classpathPrefix>lib/</classpathPrefix>
-              <mainClass>com.fortune.myjavaapp.App</mainClass>
+              <mainClass>com.fortune.myjavapp.App</mainClass>
             </manifest>
           </archive>
         </configuration>
